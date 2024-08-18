@@ -1,0 +1,10 @@
+name: BlockProtection
+version: 1.0
+main: pl.kwanek.antybreakblock.AntyBreakBlock
+api-version: 1.16
+description: Plugin blokujący niszczenie bloków z wyjątkiem dozwolonych w configu.
+commands: {}
+permissions:
+  blockprotection.bypass:
+    description: Pozwala na niszczenie wszystkich bloków.
+    default: false

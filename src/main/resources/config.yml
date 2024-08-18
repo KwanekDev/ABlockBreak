@@ -1,0 +1,6 @@
+#github.com/kwanekdev
+
+allowed-blocks:
+  - STONE
+  - DIRT
+  - GRASS_BLOCK
